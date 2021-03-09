@@ -6,6 +6,8 @@ c = Currency
 doc = """
 Este es una aplicacion de prueba de oTree que consiste
 en que hay jugadores negociando entre sí.
+
+asdasfafafasfasfsafasfa
 """
 
 
